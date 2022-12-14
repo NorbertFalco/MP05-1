@@ -16,6 +16,27 @@ Es demana:
 - Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
 - Fer la taula amb l'anàlisis de valors límit i casos vàlids i no vàlids.
 
+Variable          Possibles valors            true          false           error
+pizzes              numero enter          1<=pizzes>=10     pizzes>10       No és una pizza
+                      pizzes>=1                             pizzes<1    
+                      pizzes<=10
+
+    Pizzes     resultat
+1     3         true
+2     11        false
+3     -2        false
+4    cinc       error
+5     0         false
+6     1         true 
+7     2         true 
+8     9         true
+9     10        true
+10    11        false
+
+
+
+
+
 ### Transports Jean Claude:
 
 Un programa gestiona si una càrrega es pot portar amb una furgoneta.
