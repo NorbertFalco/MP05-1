@@ -18,4 +18,20 @@ Per aquest motiu simulareu un grup de treball tipus Scrum on l'Scrum Master us i
 
 2. Puntuareu cada tasca amb un mètode per dividir de manera uniforme la feina entre els companys/es, podeu fer servir [algun d'aquests mètodes](https://www2.deloitte.com/es/es/pages/technology/articles/tecnicas-de-estimacion-en-scrum.html).
 
-3. 
+### Codificació:
+
+3. Utilitzeu Kanban per conèixer en quin estat es troben les tasques a realitzar i a qui s'han assignat. Podeu fer servir [KanbanFlow](https://kanbanflow.com/).
+
+4. Treballareu en el mateix programa, podeu treballar de forma independent i anar reunint el codi a un repositori però no es obligatori.
+
+### Proves de caixa blanca:
+
+5. Quan tingueu el codi calculareu la Complexitat Ciclomàtica de cada part del codi.
+
+6. Després escriureu les proves de caixa blanca, una per cada camí d'execució. 
+
+7. Creareu les proves amb el software JUnit i comprovareu que donen el resultat esperat.
+
+8. Investigareu software diferent a JUnit per testejar software i provareu de fer les proves amb aquest software.  A la web d'IntelliJ [podeu trobar opcions](https://www.jetbrains.com/help/idea/tests-in-ide.html).
+
+  
