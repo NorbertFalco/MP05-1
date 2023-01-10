@@ -8,7 +8,7 @@ Heu estat contractats per realitzar una aplicació, l'objectiu de l'activitat é
 
 Per aquest motiu simulareu un grup de treball tipus Scrum on l'Scrum Master us indicarà qué ha de fer el projecte i el desenvolupareu i testejareu.
 
-**Tot el procés l'haureu de presentar, ja sigui de forma oral amb suport de diapositives o en forma de vídeo.**
+**Tot el procés l'haureu de presentar, ja sigui de forma oral amb suport de diapositives o en forma de vídeo que es projectarà a classe.**
 
 ## Organització del treball:
 
