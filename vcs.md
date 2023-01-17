@@ -2,7 +2,61 @@
 
 IntelliJ té un control de versions integrat i, a més, deixa integrar-ne altres com GitHub.
 
-## Control a IntelliJ
+# Control a IntelliJ de Linux
+
+## Integració amb GitHub:
+
+Per integrar IntelliJ amb GitHub hem de seguir els següents passos:
+
+1.- VCS -> Enable Version Control Integration.
+
+![image](https://user-images.githubusercontent.com/110727546/212978510-407cc4e7-fa24-45c7-98e2-ceaa2cf7651b.png)
+
+Seleccionem Git.
+
+## Commit:
+
+1.- Seleccionar fitxers per fer commit:
+
+Commit i seleccionem tots els fitxers o Git-> Commit.
+
+![image](https://user-images.githubusercontent.com/110727546/212978769-f5bfcb59-af91-4958-ba11-9e5647dcec01.png)
+
+2.- Possem un missatge de commit i clickem el botó Commit:
+
+![image](https://user-images.githubusercontent.com/110727546/212978851-946ba13c-8a9d-4b65-8eed-d3c4c9a6e8e9.png)
+
+## Push:
+
+1.- Seleccionem Git->Push
+
+![image](https://user-images.githubusercontent.com/110727546/212979040-7aa233f3-4f00-486f-a71b-eb9491c1e15a.png)
+
+
+2.- Clickem Define Remote
+
+![image](https://user-images.githubusercontent.com/110727546/212979100-f234c5b5-126a-43e6-ad93-96299b421fec.png)
+
+Ara ens demana la URL del projecte que l'hem de buscar a la web de Github.
+
+![image](https://user-images.githubusercontent.com/110727546/212979313-901d1728-cb3a-4df7-8980-de0c2f6f135d.png)
+
+
+Copiem la URL i la enganxem a IntelliJ.
+
+![image](https://user-images.githubusercontent.com/110727546/212979428-3257a588-40c1-4fde-8419-020a6cc679b0.png)
+
+![image](https://user-images.githubusercontent.com/110727546/212979463-e4aacda1-d86e-45fb-af66-bf44799e2f38.png)
+
+
+Clickem Commit.
+
+![image](https://user-images.githubusercontent.com/110727546/212979514-2a7c2f6f-f507-479a-b2d1-e0d77eaeab38.png)
+
+Ja s'haurà pujat el projecte.
+
+
+# Control a IntelliJ de Windows
 
 
 ## Integració amb GitHub:
