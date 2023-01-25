@@ -35,3 +35,8 @@
 - [Proves de caixa negra i depurador](UF2Activitats2.md)
 - [Proves unitàries de caixa negra](junit.md)
 - [Activitat Grups](UF2ActivitatGrup.md)
+
+### Activitats resoltes:
+
+- [Solució proves de caixa blanca](solucioCaixaBlanca.md)
+
