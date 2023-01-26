@@ -32,7 +32,8 @@
 ### Activitats:
 
 - [Proves de caixa blanca](UF2Activitats1.md)
-- [Proves de caixa negra i depurador](UF2Activitats2.md)
+- [Proves de caixa negra](UF2Activitats2.md)
+- [Activitats depurador](UF2ActivitatsDebug.md)
 - [Proves unitàries de caixa negra](junit.md)
 - [Activitat Grups](UF2ActivitatGrup.md)
 
