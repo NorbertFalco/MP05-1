@@ -8,10 +8,8 @@
 
 ### Activitats
 
-[Enunciat activitat 1](https://github.com/XaSaFa/MP05UF1/blob/main/UF1Activitat1.md).
-
-
-[Enunciat activitat 2](https://github.com/XaSaFa/MP05UF1/blob/main/UF1Activitat2.md).
+- [Enunciat activitat 1](https://github.com/XaSaFa/MP05UF1/blob/main/UF1Activitat1.md)
+- [Enunciat activitat 2](https://github.com/XaSaFa/MP05UF1/blob/main/UF1Activitat2.md)
 
 ## UF2 - Optimització de programari.
 
