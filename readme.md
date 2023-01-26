@@ -6,13 +6,12 @@
 - [Link a guia de MarkDown](https://www.markdownguide.org/cheat-sheet/)
 - [Instal·lació de IDEs de JAVA](instalaIDEs.md)
 
-### Activitat 1
+### Activitats
 
-[Enunciat](https://github.com/XaSaFa/MP05UF1/blob/main/UF1Activitat1.md).
+[Enunciat activitat 1](https://github.com/XaSaFa/MP05UF1/blob/main/UF1Activitat1.md).
 
-### Activitat 2
 
-[Enunciat](https://github.com/XaSaFa/MP05UF1/blob/main/UF1Activitat2.md).
+[Enunciat activitat 2](https://github.com/XaSaFa/MP05UF1/blob/main/UF1Activitat2.md).
 
 ## UF2 - Optimització de programari.
 
