@@ -26,7 +26,7 @@ En aquest cas podem definir les classes d'equivalència del programa d'aquesta m
 
 | Paràmetre entrada | Regla a aplicar | Classes vàlides Passa| Classes no vàlides No passa| Error |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Edat | És un número? + rang valors (18..120) | 1. 18 <= edat <= 120 | 2. edat < 18 <br> 3. edat >120 <br> 4. | no és un número.|
+| Edat | És un número? + rang valors (18..120) | 1. 18 <= edat <= 120 | 2. edat < 18 <br> 3. edat >120 <br> |  4. no és un número.|
 
 ##### Classes d'equivalència vàlides:
 
