@@ -2,7 +2,7 @@
 
 ## Historia:
 
-La utilització del terme "bug" com a error informàtic es va començar a emprar l'any 1947, llavors un bug era realment "un insecte" que feiz que funcionés malament un programa informàtic.
+La utilització del terme "bug" com a error informàtic es va començar a emprar l'any 1947, llavors un bug era realment "un insecte" que feia que funcionés malament un programa informàtic.
 
 ![image](https://user-images.githubusercontent.com/110727546/206031058-14a92197-8529-4f93-9f66-df61e4c81a6c.png)
 
