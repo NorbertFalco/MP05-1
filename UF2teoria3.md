@@ -24,9 +24,9 @@ Si la persona pot passar la funció retornarà Passa, en cas  de no tenir l'edat
 
 En aquest cas podem definir les classes d'equivalència del programa d'aquesta manera:
 
-| Paràmetre entrada | Regla a aplicar | Classes vàlides | Classes no vàlides |
-| ----------- | ----------- | ----------- | ----------- |
-| Edat | És un número? + rang valors (18..120) | 1. 18 <= edat <= 120 | 2. edat < 18 <br> 3. edat >120 <br> 4. no és un número.|
+| Paràmetre entrada | Regla a aplicar | Classes vàlides Passa| Classes no vàlides No passa| Error |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Edat | És un número? + rang valors (18..120) | 1. 18 <= edat <= 120 | 2. edat < 18 <br> 3. edat >120 <br> 4. | no és un número.|
 
 ##### Classes d'equivalència vàlides:
 
