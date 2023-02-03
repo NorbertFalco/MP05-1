@@ -6,15 +6,12 @@
 - [Link a guia de MarkDown](https://www.markdownguide.org/cheat-sheet/)
 - [Instal·lació de IDEs de JAVA](instalaIDEs.md)
 
-### Activitat 1
+### Activitats
 
-[Enunciat](https://github.com/XaSaFa/MP05UF1/blob/main/UF1Activitat1.md).
+- [Enunciat activitat 1](https://github.com/XaSaFa/MP05UF1/blob/main/UF1Activitat1.md)
+- [Enunciat activitat 2](https://github.com/XaSaFa/MP05UF1/blob/main/UF1Activitat2.md)
 
-### Activitat 2
-
-[Enunciat](https://github.com/XaSaFa/MP05UF1/blob/main/UF1Activitat2.md).
-
-## UF2 - Desenvolupament de programari.
+## UF2 - Optimització de programari.
 
 ### Recursos:
 
@@ -26,9 +23,19 @@
 - [Tipus de proves i proves de caixa blanca](UF2teoria2.md)
 - [Proves de caixa negra](UF2teoria3.md)
 - [Depurador](debug.md)
+- [Proves unitàries de caixa negra](junit.md)
 
 
 ### Activitats:
 
 - [Proves de caixa blanca](UF2Activitats1.md)
-- [Proves de caixa negra i depurador](UF2Activitats2.md)
+- [Proves de caixa negra](UF2Activitats2.md)
+- [Activitats depurador](UF2ActivitatsDebug.md)
+- [Proves unitàries de caixa negra](junit.md)
+- [Activitat Grups](UF2ActivitatGrup.md)
+
+### Activitats resoltes:
+
+- [Solució proves de caixa blanca](solucioCaixaBlanca.md)
+- [Solució proves de caixa negra](https://github.com/XaSaFa/MP05/blob/main/Solucio%20Activitats%20proves%20de%20caixa%20negra.pdf)
+

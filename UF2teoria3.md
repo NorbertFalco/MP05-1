@@ -24,9 +24,9 @@ Si la persona pot passar la funció retornarà Passa, en cas  de no tenir l'edat
 
 En aquest cas podem definir les classes d'equivalència del programa d'aquesta manera:
 
-| Paràmetre entrada | Regla a aplicar | Classes vàlides | Classes no vàlides |
-| ----------- | ----------- | ----------- | ----------- |
-| Edat | És un número? + rang valors (18..120) | 1. 18 <= edat <= 120 | 2. edat < 18 <br> 3. edat >120 <br> 4. no és un número.|
+| Paràmetre entrada | Regla a aplicar | Classes vàlides Passa| Classes no vàlides No passa| Error |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Edat | És un número? + rang valors (18..120) | 1. edad >=18 && edad<=120| 2. edat < 18 <br> 3. edat >120 <br> |  4. no és un número.|
 
 ##### Classes d'equivalència vàlides:
 
@@ -144,6 +144,7 @@ El preu mínim per producte és de 10 cèntims.
 <br>
 <br>
 <br>
+
 ### Classes d'equivalència vàlides (1 i 5):
 
 Ara haurem de dissenyar els casos de prova per cobrir totes les classes vàlides (1).
@@ -169,6 +170,7 @@ Ara haurem de dissenyar els casos de prova per cobrir totes les classes vàlides
 <br>
 <br>
 <br>
+
 ### Classes d'equivalència no vàlides:
 
 Ara generarem proves per cobrir totes les calsses de proves no vàlides (2 a 4 i 6 a 8).
@@ -201,6 +203,7 @@ Ara generarem proves per cobrir totes les calsses de proves no vàlides (2 a 4 i
 <br>
 <br>
 <br>
+
 ### Anàlisi dels valors límits:
 
 | Paràmetre entrada | Regla a aplicar | Classes vàlides | Classes no vàlides |
