@@ -13,13 +13,19 @@ El programa retorna true si la comanda es pot portar i false en cas contrari.
 Es demana:
 
 - Fer el codi font del programa.
+
+![image](https://user-images.githubusercontent.com/114875463/216810572-518af581-fce0-48fd-a3f6-f323aced3316.png)
+
+
 - Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
+
+Paràmetre entrada       Regla a aplicar	           Classes vàlides Passa	       Classes no vàlides No passa	     Error
+  
+    pizzes          És un numero? + rang (1.10)      1<=pizzes>=10                 pizzes>10/pizzes<1              no és un numero
+
+
 - Fer la taula amb l'anàlisis de valors límit i casos vàlids i no vàlids.
 
-Variable          Possibles valors            true          false           error
-pizzes              numero enter          1<=pizzes>=10     pizzes>10       No és una pizza
-                      pizzes>=1                             pizzes<1    
-                      pizzes<=10
 
     Pizzes     resultat
 1     3         true
