@@ -19,27 +19,18 @@ Es demana:
 
 - Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
 
-Paràmetre entrada       Regla a aplicar	           Classes vàlides Passa	       Classes no vàlides No passa	     Error
-  
-    pizzes          És un numero? + rang (1.10)      1<=pizzes>=10                 pizzes>10/pizzes<1              no és un numero
+![image](https://user-images.githubusercontent.com/114875463/216813022-8e0bf547-3eac-4727-8e54-9ce9d16de0f3.png)
+
+
+![image](https://user-images.githubusercontent.com/114875463/216813137-8b3d912d-602c-44fa-8730-765eecf99a35.png)
 
 
 - Fer la taula amb l'anàlisis de valors límit i casos vàlids i no vàlids.
 
-
-    Pizzes     resultat
-1     3         true
-2     11        false
-3     -2        false
-4    cinc       error
-5     0         false
-6     1         true 
-7     2         true 
-8     9         true
-9     10        true
-10    11        false
+![image](https://user-images.githubusercontent.com/114875463/216813298-5bbc55bc-8378-4e9b-a147-3d65711bc6f1.png)
 
 
+![Captura de pantalla de 2023-02-05 10-16-17](https://user-images.githubusercontent.com/114875463/216811027-87e18b7c-7b33-4e42-bfb8-4ac323313ec6.png)
 
 
 
@@ -56,8 +47,23 @@ Si una càrrega no es pot portar el programa retorna -1, en cas contrari retorna
 Es demana:
 
 - Fer el codi font del programa.
+
+![image](https://user-images.githubusercontent.com/114875463/216812753-476c4adf-57c3-41e2-80b9-56c034586cc6.png)
+
+
+
 - Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
+
+![image](https://user-images.githubusercontent.com/114875463/216813964-385b7bd1-93ba-4a9c-a828-d2686642598b.png)
+
+
 - Fer la taula amb l'anàlisis de valors límit i casos vàlids i no vàlids.
+
+![image](https://user-images.githubusercontent.com/114875463/216814185-e546c916-27ca-4804-9e44-cee9f9cf0c0f.png)
+
+![image](https://user-images.githubusercontent.com/114875463/216815727-0dde9acb-4d46-45e5-9f5c-092193ad0d6d.png)
+
+
 
 ### Control de temperatura:
 
@@ -78,8 +84,19 @@ Si la temperatura del medidor és més baixa que la del termostat en més de dos
 Es demana:
 
 - Fer el codi font del programa.
+
+![image](https://user-images.githubusercontent.com/114875463/216815875-757b6b53-ee22-4b5d-b07a-06ed8cdf39cd.png)
+
 - Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
+
+
+
+
 - Fer la taula amb l'anàlisis de valors límit i casos vàlids i no vàlids.
+
+
+
+
 
 
 ## Activitats debug:
