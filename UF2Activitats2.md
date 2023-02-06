@@ -89,13 +89,11 @@ Es demana:
 
 - Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
 
-
-
+![Selecció_231](https://user-images.githubusercontent.com/114875463/216912529-532b1f13-c8a4-4b53-a5fd-7e4cb8d93cf9.png)
 
 - Fer la taula amb l'anàlisis de valors límit i casos vàlids i no vàlids.
 
-
-
+![Selecció_229](https://user-images.githubusercontent.com/114875463/216911830-4312c2e0-5646-45b0-a4d5-3ff57ce8326f.png)
 
 
 
@@ -116,7 +114,13 @@ Fes una funció factorial que rebi un número com paràmetre i retorni el seu fa
 Es demana:
 
 - Codi del programa.
+
+![Selecció_232](https://user-images.githubusercontent.com/114875463/216915887-cc98c687-fae4-4afc-8e9b-fd5751ebedcd.png)
+
 - Captura de pantalla amb un punt d'interrupció que deixi veure totes les crides a la funció (agafeu un valor menor a 10).
+
+![Selecció_233](https://user-images.githubusercontent.com/114875463/216919553-be954164-6cda-4715-bd57-968a87c785d7.png)
+
 
 ### Taula de multiplicar:
 
