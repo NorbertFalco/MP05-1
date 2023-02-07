@@ -130,8 +130,30 @@ Aquest programa rep per argument d'entrada un número sencer i retorna per termi
 Es demana:
 
 - Codi del programa.
+
+![Selecció_257](https://user-images.githubusercontent.com/114875463/217325101-b92bf67f-f953-4b35-a221-6331079e5f73.png)
+
 - Captura de pantalla de com li passeu a IntelliJ com argument del programa un número. (Mireu exemple findAverage).
+
+![Selecció_258](https://user-images.githubusercontent.com/114875463/217328169-6ffcaef6-d7a1-4eee-b02d-d3ebab000c3c.png)
+
 - Captura de com feu un punt d'interrupció al bucle de creació de la matriu i mostreu els valors de la matriu.
+
+![Selecció_259](https://user-images.githubusercontent.com/114875463/217328619-41ffa4e7-6f8a-46a9-9e42-e4bd34a26214.png)
+
 - Captura de punt d'interrupció al bucle de multiplicació i com modifiqueu a ma els valors de la matriu de números per a que l'execució retorni el número 1 10 vegades quan l'argument d'entrada era 1.
+
+![Selecció_260](https://user-images.githubusercontent.com/114875463/217329629-63fdbffd-f8b7-4c16-b405-303b021412e8.png)
+
+![Menú_006](https://user-images.githubusercontent.com/114875463/217329656-30848137-360e-46a3-a406-7498b17f2737.png)
+
+![Selecció_261](https://user-images.githubusercontent.com/114875463/217329912-ead57e56-44a6-4d80-9187-21943a875996.png)
+
+![Selecció_262](https://user-images.githubusercontent.com/114875463/217329940-73f7297d-2ded-4755-a44e-0414d77e630b.png)
+
+
+
+
+
 
 
