@@ -17,7 +17,34 @@ Fes una funció factorial que rebi un número com paràmetre i retorni el seu fa
 Es demana:
 
 - Codi del programa.
+
+import java.util.Scanner;
+
+public class Factorial {
+    public static int calcularFactorial(int num) {
+        int resultat;
+        if (num<=1){
+            resultat = 1;
+        }
+        else{
+            resultat =  num*calcularFactorial(num-1);
+        }
+        return resultat;
+    }
+
+    public static void main(String[] args) {
+        Scanner ent = new Scanner(System.in);
+        int numero = ent.nextInt();
+
+        int resultat = calcularFactorial(numero);
+        System.out.println("El factorial de " + numero + " és: " + resultat);
+    }
+}
+
 - Captura de pantalla amb un punt d'interrupció que deixi veure totes les crides a la funció (agafeu un valor menor a 10).
+
+![Selecció_1491](https://github.com/NorbertFalco/MP05-1/assets/114875463/5ebc2ead-9eba-46c0-82ac-8711ded76647)
+
 
 ### Taula de multiplicar:
 
