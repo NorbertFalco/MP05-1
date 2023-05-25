@@ -99,10 +99,7 @@ public class TaulaMultiplicar {
 
 
 
-![Selecció_1494](https://github.com/NorbertFalco/MP05-1/assets/114875463/2900b0b9-b1ab-478b-8b91-917e28be95c7)
-
-
-
+![image](https://github.com/NorbertFalco/MP05-1/assets/114875463/e160b70a-dc20-4008-acde-9c268f11d237)
 
 
 
